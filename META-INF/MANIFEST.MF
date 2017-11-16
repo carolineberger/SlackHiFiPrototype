@@ -1,3 +1,22 @@
 Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Slack2017
+Bundle-SymbolicName: Slack2017
+Bundle-Version: 1.0.0.qualifier
 Main-Class: ch.swingfx.twinkle.demo.WebDemoFrame
-
+Export-Package: ch.swingfx.awt,
+ ch.swingfx.color,
+ ch.swingfx.text,
+ ch.swingfx.timer,
+ ch.swingfx.twinkle,
+ ch.swingfx.twinkle.event,
+ ch.swingfx.twinkle.manger,
+ ch.swingfx.twinkle.resource,
+ ch.swingfx.twinkle.style,
+ ch.swingfx.twinkle.style.background,
+ ch.swingfx.twinkle.style.closebutton,
+ ch.swingfx.twinkle.style.closebutton.resources,
+ ch.swingfx.twinkle.style.overlay,
+ ch.swingfx.twinkle.style.theme,
+ ch.swingfx.twinkle.window,
+ ch.swingfx.window.translucentandshaped
